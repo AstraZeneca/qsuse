@@ -1,0 +1,15 @@
+Package: qsuse
+Type: Package
+Title: R library to import local sources in a way similar to python import
+Version: 1.0.0
+Authors@R: as.person(c("Stefano Borini <stefano.borini@astrazeneca.com> [aut, cre]"))
+License: file LICENSE
+Description: R library to import local sources in a way similar to python import
+Repository: CRAN
+Imports:
+Suggests:
+VignetteBuilder: knitr
+Encoding: UTF-8
+Config/testthat/parallel: false
+Config/testthat/edition: 3
+RoxygenNote: 7.3.1
